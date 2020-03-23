@@ -1,0 +1,12 @@
+code to create a linked list
+
+define the structure
+two things data and node *next
+*next is the pointer
+which holds the address of the next node in the linked list
+
+struct node
+{
+int data;
+struct node *next;
+}
